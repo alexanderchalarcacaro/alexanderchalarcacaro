@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mateo Chalarca Caro</h1>
+<h1 align="center">Hi 👋, I'm Alexander Chalarca Caro</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
 - 🔭 I’m currently working on a project **Prueba**
@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **mateochalarcacaro@gmail.com**
+- 📫 How to reach me **alexanderchalarcacaro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  E-Mail: mateochalarcacaro@gmail.com
+  E-Mail: alexanderchalarcacaro@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
